@@ -1,11 +1,11 @@
 export const siteConfig = {
-  name: "你的名字",
-  title: "个人博客",
+  name: "陳csy",
+  title: "ccsy的个人博客",
   description: "一个热爱技术、热爱生活的开发者",
-  avatar: "/images/avatar.jpg",
+  avatar: "/images/avatar.svg",
   social: {
-    github: "https://github.com/yourusername",
-    email: "your-email@example.com",
+    github: "https://github.com/chenshuyushuaima-eng",
+    email: "chenshuyushuai@126.com",
     twitter: "",
   },
   skills: [

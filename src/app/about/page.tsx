@@ -27,32 +27,32 @@ export default function AboutPage() {
         <div className="space-y-6">
           <div className="relative pl-6 border-l-2 border-blue-200">
             <div className="absolute left-0 top-0 w-3 h-3 -translate-x-[7px] bg-blue-500 rounded-full" />
-            <time className="text-xs text-gray-400">2024 - 至今</time>
+            <time className="text-xs text-gray-400">现在</time>
             <h3 className="text-base font-medium text-gray-900 mt-1">
-              在这里填写你的当前工作
+              心里只有qn
             </h3>
             <p className="text-sm text-gray-500 mt-1">
-              描述你的工作内容和职责
+              qn是生命中最重要的人 ❤️
             </p>
           </div>
           <div className="relative pl-6 border-l-2 border-gray-200">
             <div className="absolute left-0 top-0 w-3 h-3 -translate-x-[7px] bg-gray-300 rounded-full" />
-            <time className="text-xs text-gray-400">2022 - 2024</time>
+            <time className="text-xs text-gray-400">以前</time>
             <h3 className="text-base font-medium text-gray-900 mt-1">
-              在这里填写你的上一段经历
+              心里只有qn
             </h3>
             <p className="text-sm text-gray-500 mt-1">
-              描述这段经历的内容
+              遇见qn的那一刻起，世界就不一样了
             </p>
           </div>
           <div className="relative pl-6 border-l-2 border-gray-200">
             <div className="absolute left-0 top-0 w-3 h-3 -translate-x-[7px] bg-gray-300 rounded-full" />
-            <time className="text-xs text-gray-400">2018 - 2022</time>
+            <time className="text-xs text-gray-400">未来</time>
             <h3 className="text-base font-medium text-gray-900 mt-1">
-              在这里填写你的教育/早期经历
+              心里还是只有qn
             </h3>
             <p className="text-sm text-gray-500 mt-1">
-              描述这段经历
+              一直走下去 ✨
             </p>
           </div>
         </div>
