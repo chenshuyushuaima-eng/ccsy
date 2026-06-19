@@ -9,14 +9,10 @@ export const siteConfig = {
     twitter: "",
   },
   skills: [
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Node.js",
-    "Python",
-    "Docker",
-    "PostgreSQL",
-    "Tailwind CSS",
+    "爱qn",
+    "喜欢qn",
+    "心中qn第一",
+    "qn yyds",
   ],
   navLinks: [
     { label: "首页", href: "/" },
